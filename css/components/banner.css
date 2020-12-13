@@ -1,0 +1,18 @@
+.banner {
+	background-image: url(../../image/freedom.jpg);
+	color: white;
+	padding: 300px 0px;
+	background-size: cover;
+	background-position: center;
+	margin: 10px 0px;
+}
+.banner h1{
+	font-size: 30px;
+	font-family: 'Roboto', sans-serif;
+}
+.banner h2{
+	font-size: 20px;
+	font-weight: lighter;
+	opacity: 1.8;
+	margin-bottom: 40px;
+}
